@@ -1,9 +1,6 @@
 # Evaluaci-n-Parcial-N-3---Sistemas-y-Servicios-en-Cloud
 Evaluación Parcial N° 3 de Sistemas Operativos Corporativos (AAY1108). Evidencias de implementación de servidores web en entornos cloud Linux (Apache) y Windows Server 2019 (IIS + FTP)
-Evaluación Parcial N° 3
 Sistemas y servicios en cloud
-Estudiante
-
 Nombre de alumno: Ignacio Fernando San Martin Riera y Matias Rebolledo Bahamondes
 Profesor: GONZALO ADRIAN LEPIN GONZALEZ
 Fecha: 15/6/2026
